@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">layout3</string>
+
+    <string name="button">Button</string>
+    <string name="textview">Hi! click below</string>
+
+</resources>
